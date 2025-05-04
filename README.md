@@ -126,7 +126,8 @@ Registration page
 
 Login page
 
-![image](https://github.com/user-attachments/assets/94e79b90-74a0-40fb-a500-3b1743ee29e2)
+![image](https://github.com/user-attachments/assets/90dc8b9d-bde1-4017-bd39-414f274415a9)
+
 
 
 Home page After login 
