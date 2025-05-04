@@ -3,22 +3,32 @@ In this repo you find how to create register and store value in database and the
 
 
 ------------ Project Structure-----------
-pgsql
-Copy code
+
 /WebApp
 │
 ├── WebContent/
+
 │   ├── Register.html
+
 │   ├── login.html
+
 │   ├── home.html
+
 │
+
 ├── src/
+
 │   ├── servlet1.java
+
 │   ├── servlet2.java
+
 │
+
 ├── WEB-INF/
+
 │   ├── web.xml
 │
+
 └── lib/ 
 
 
